@@ -1,0 +1,9 @@
+.Nav {
+	background-color: lightblue;
+	height: 30px;
+}
+
+.Nav a {
+	margin: 5px;
+	padding: 10px;
+}
